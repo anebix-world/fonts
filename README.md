@@ -1,6 +1,5 @@
 # Anebix Fonts
-A collection of hosted fonts
-
+A collection of hosted fonts, all fonts with a TTF alternative.
 
 
 ## Mozilla
@@ -26,6 +25,6 @@ Font Sources:
 
 
 ## Nasin-Nanpa
-- Converted [Ethan's](https://github.com/etbcor) OTF into ttf.
+- Converted [Ethan's](https://github.com/etbcor) OTF into TTF.
 <br><br>[Font Sources](https://github.com/etbcor/nasin-nanpa/tags)
 <br>[Wiki](https://sona.pona.la/wiki/sitelen_pona)
