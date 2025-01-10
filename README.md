@@ -27,5 +27,5 @@ Font Sources:
 
 ## Nasin-Nanpa
 - Converted [Ethan's](https://github.com/etbcor) OTF into ttf.
-[Font Sources](https://github.com/etbcor/nasin-nanpa/tags)
-[Wiki](https://sona.pona.la/wiki/sitelen_pona)
+<br>[Font Sources](https://github.com/etbcor/nasin-nanpa/tags)
+<br>[Wiki](https://sona.pona.la/wiki/sitelen_pona)
